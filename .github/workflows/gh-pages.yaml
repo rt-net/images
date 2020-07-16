@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Prepare SSH
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY_RASPBERRYPIMOUSE }}
+
+      - name: Setup Git
+        run: |
+          git config --local user.name "RT Corp."
+          git config --local user.email "shop@rt-net.jp"
+
+      - name: Clone & Sync & Generate & Push
+        run: |
+          cd ..
+          git clone -b gh-pages git@github.com:rt-net/images.git
+          rsync -av --delete --exclude=".*" images/ rt-net-images/
+          cd rt-net-images
+          ./generate_all_images_md.bash
+          git add .
+          git commit -m"Update"
+          git push -q origin gh-pages
