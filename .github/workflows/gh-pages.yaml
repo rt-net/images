@@ -9,25 +9,32 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Prepare SSH
-        uses: webfactory/ssh-agent@v0.2.0
+      - name: Checkout source
+        uses: actions/checkout@v2
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY_RASPBERRYPIMOUSE }}
+          ref: master
+          fetch-depth: '0'
+          path: 'source'
+
+      - name: Checkout dist
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          fetch-depth: '0'
+          path: 'dist'
 
       - name: Setup Git
         run: |
-          git config --local user.name "RT Corp."
-          git config --local user.email "shop@rt-net.jp"
+          git config --global user.name "RT Corp."
+          git config --global user.email "shop@rt-net.jp"
 
       - name: Clone & Sync & Generate & Push
         run: |
-          cd ..
-          git clone -b gh-pages git@github.com:rt-net/images.git
-          rsync -av --delete --exclude=".*" images/ rt-net-images/
-          cd rt-net-images
+          cd ${GITHUB_WORKSPACE}/source
+          HASH=`git rev-parse --short HEAD`
           ./generate_all_images_md.bash
+          rsync -av --delete --exclude '.*' --exclude '*.bash' ${GITHUB_WORKSPACE}/source/ ${GITHUB_WORKSPACE}/dist
+          cd ${GITHUB_WORKSPACE}/dist
           git add .
-          git commit -m"Update"
+          git commit -m "deploy: ${HASH}"
           git push -q origin gh-pages
