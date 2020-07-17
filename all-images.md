@@ -68,9 +68,17 @@
 
 ## raspberry-pi-mouse
 
+- [object_tracking_ros2.png](raspberry-pi-mouse/object_tracking_ros2.png)
+
+![object_tracking_ros2.png](raspberry-pi-mouse/object_tracking_ros2.png)
+
 - [raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
 
 ![raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
+
+- [slam_toolbox_ros2.png](raspberry-pi-mouse/slam_toolbox_ros2.png)
+
+![slam_toolbox_ros2.png](raspberry-pi-mouse/slam_toolbox_ros2.png)
 
 [back to top](#all-images)
 
