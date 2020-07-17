@@ -1,6 +1,7 @@
 # all-images
 
 - [crane-x7](#crane-x7)
+- [raspberry-pi-mouse](#raspberry-pi-mouse)
 - [sciurus17](#sciurus17)
 
 ## crane-x7
@@ -60,6 +61,16 @@
 - [readme_rqt_reconfigure.png](crane-x7/readme_rqt_reconfigure.png)
 
 ![readme_rqt_reconfigure.png](crane-x7/readme_rqt_reconfigure.png)
+
+[back to top](#all-images)
+
+---
+
+## raspberry-pi-mouse
+
+- [raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
+
+![raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
 
 [back to top](#all-images)
 
