@@ -3,6 +3,7 @@
 - [crane-x7](#crane-x7)
 - [raspberry-pi-mouse](#raspberry-pi-mouse)
 - [sciurus17](#sciurus17)
+- [usb-9axisimu](#usb-9axisimu)
 
 ## crane-x7
 
@@ -201,6 +202,16 @@
 - [visual_feedback_with_ar_marker.jpg](sciurus17/visual_feedback_with_ar_marker.jpg)
 
 ![visual_feedback_with_ar_marker.jpg](sciurus17/visual_feedback_with_ar_marker.jpg)
+
+[back to top](#all-images)
+
+---
+
+## usb-9axisimu
+
+- [usb-9axisimu.png](usb-9axisimu/usb-9axisimu.png)
+
+![usb-9axisimu.png](usb-9axisimu/usb-9axisimu.png)
 
 [back to top](#all-images)
 
