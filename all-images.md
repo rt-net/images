@@ -1,9 +1,28 @@
 # all-images
 
+- [crane-x7-cad](#crane-x7-cad)
 - [crane-x7](#crane-x7)
 - [raspberry-pi-mouse](#raspberry-pi-mouse)
 - [sciurus17](#sciurus17)
 - [usb-9axisimu](#usb-9axisimu)
+
+## crane-x7-cad
+
+- [CRANE-X7-v1.2.stp.png](crane-x7-cad/CRANE-X7-v1.2.stp.png)
+
+![CRANE-X7-v1.2.stp.png](crane-x7-cad/CRANE-X7-v1.2.stp.png)
+
+- [CRANE-X7_HandA_RealSenseD435mount.stp.png](crane-x7-cad/CRANE-X7_HandA_RealSenseD435mount.stp.png)
+
+![CRANE-X7_HandA_RealSenseD435mount.stp.png](crane-x7-cad/CRANE-X7_HandA_RealSenseD435mount.stp.png)
+
+- [CRANE-X7v20180626.stp.png](crane-x7-cad/CRANE-X7v20180626.stp.png)
+
+![CRANE-X7v20180626.stp.png](crane-x7-cad/CRANE-X7v20180626.stp.png)
+
+[back to top](#all-images)
+
+---
 
 ## crane-x7
 
