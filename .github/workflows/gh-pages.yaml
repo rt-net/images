@@ -36,7 +36,7 @@ jobs:
           rsync -av --delete --exclude '.*' --exclude '*.bash' ${GITHUB_WORKSPACE}/source/ ${GITHUB_WORKSPACE}/dist
           cd ${GITHUB_WORKSPACE}/dist
           # exit if nothing to commit
-          git status | grep -q "nothing" && exit 0
+          git status | grep -q "nothing" && echo "::debug::Nothing to 'git commit'" && exit 0
           # commit updated files
           git add .
           git commit -m "deploy: ${HASH}"
