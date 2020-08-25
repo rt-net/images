@@ -97,6 +97,10 @@
 
 ![csi_cam_rqt_image_view.png](jetson-nano/csi_cam_rqt_image_view.png)
 
+- [jetson_nano_dual_csi.jpg](jetson-nano/jetson_nano_dual_csi.jpg)
+
+![jetson_nano_dual_csi.jpg](jetson-nano/jetson_nano_dual_csi.jpg)
+
 [back to top](#all-images)
 
 ---
