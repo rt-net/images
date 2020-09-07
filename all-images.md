@@ -98,6 +98,10 @@
 
 ![Jetson-Nano-Mouse.png](jetson-nano-mouse/Jetson-Nano-Mouse.png)
 
+- [jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
+
+![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
+
 [back to top](#all-images)
 
 ---
