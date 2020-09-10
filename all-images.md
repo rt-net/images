@@ -204,6 +204,10 @@
 
 ## sciurus17
 
+- [Sciurus17_Arm_Center.stp.png](sciurus17/Sciurus17_Arm_Center.stp.png)
+
+![Sciurus17_Arm_Center.stp.png](sciurus17/Sciurus17_Arm_Center.stp.png)
+
 - [ar_marker_setup.jpg](sciurus17/ar_marker_setup.jpg)
 
 ![ar_marker_setup.jpg](sciurus17/ar_marker_setup.jpg)
