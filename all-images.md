@@ -187,6 +187,18 @@
 
 ![raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
 
+- [raspimouse_sim_samplemaze.png](raspberry-pi-mouse/raspimouse_sim_samplemaze.png)
+
+![raspimouse_sim_samplemaze.png](raspberry-pi-mouse/raspimouse_sim_samplemaze.png)
+
+- [raspimouse_sim_samplemaze_animation.gif](raspberry-pi-mouse/raspimouse_sim_samplemaze_animation.gif)
+
+![raspimouse_sim_samplemaze_animation.gif](raspberry-pi-mouse/raspimouse_sim_samplemaze_animation.gif)
+
+- [raspimouse_sim_urg.png](raspberry-pi-mouse/raspimouse_sim_urg.png)
+
+![raspimouse_sim_urg.png](raspberry-pi-mouse/raspimouse_sim_urg.png)
+
 - [slam_gmapping.png](raspberry-pi-mouse/slam_gmapping.png)
 
 ![slam_gmapping.png](raspberry-pi-mouse/slam_gmapping.png)
