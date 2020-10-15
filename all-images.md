@@ -16,6 +16,10 @@
 
 ![display_launch.png](crane-plus/display_launch.png)
 
+- [dynamixel_wizard2.png](crane-plus/dynamixel_wizard2.png)
+
+![dynamixel_wizard2.png](crane-plus/dynamixel_wizard2.png)
+
 [back to top](#all-images)
 
 ---
