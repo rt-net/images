@@ -20,6 +20,10 @@
 
 ![dynamixel_wizard2.png](crane-plus/dynamixel_wizard2.png)
 
+- [gripper_control.gif](crane-plus/gripper_control.gif)
+
+![gripper_control.gif](crane-plus/gripper_control.gif)
+
 [back to top](#all-images)
 
 ---
