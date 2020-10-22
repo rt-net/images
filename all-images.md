@@ -126,6 +126,10 @@
 
 ![jnmouse_rviz.png](jetson-nano-mouse/jnmouse_rviz.png)
 
+- [jnmouse_step_cad.png](jetson-nano-mouse/jnmouse_step_cad.png)
+
+![jnmouse_step_cad.png](jetson-nano-mouse/jnmouse_step_cad.png)
+
 [back to top](#all-images)
 
 ---
