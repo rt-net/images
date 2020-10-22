@@ -122,6 +122,14 @@
 
 ![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
 
+- [jnmouse_gazebo_1.gif](jetson-nano-mouse/jnmouse_gazebo_1.gif)
+
+![jnmouse_gazebo_1.gif](jetson-nano-mouse/jnmouse_gazebo_1.gif)
+
+- [jnmouse_gazebo_2.gif](jetson-nano-mouse/jnmouse_gazebo_2.gif)
+
+![jnmouse_gazebo_2.gif](jetson-nano-mouse/jnmouse_gazebo_2.gif)
+
 - [jnmouse_rviz.png](jetson-nano-mouse/jnmouse_rviz.png)
 
 ![jnmouse_rviz.png](jetson-nano-mouse/jnmouse_rviz.png)
