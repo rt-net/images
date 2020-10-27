@@ -24,6 +24,10 @@
 
 ![gripper_control.gif](crane-plus/gripper_control.gif)
 
+- [pose_groupstate.gif](crane-plus/pose_groupstate.gif)
+
+![pose_groupstate.gif](crane-plus/pose_groupstate.gif)
+
 [back to top](#all-images)
 
 ---
