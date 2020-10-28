@@ -138,6 +138,10 @@
 
 ![jnmouse_gazebo_2.gif](jetson-nano-mouse/jnmouse_gazebo_2.gif)
 
+- [jnmouse_gazebo_3.gif](jetson-nano-mouse/jnmouse_gazebo_3.gif)
+
+![jnmouse_gazebo_3.gif](jetson-nano-mouse/jnmouse_gazebo_3.gif)
+
 - [jnmouse_gazebo_disparity.png](jetson-nano-mouse/jnmouse_gazebo_disparity.png)
 
 ![jnmouse_gazebo_disparity.png](jetson-nano-mouse/jnmouse_gazebo_disparity.png)
