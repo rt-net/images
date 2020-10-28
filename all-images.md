@@ -242,6 +242,10 @@
 
 ![raspimouse_sim_urg.png](raspberry-pi-mouse/raspimouse_sim_urg.png)
 
+- [raspimouse_sim_urg_slam_gmapping.png](raspberry-pi-mouse/raspimouse_sim_urg_slam_gmapping.png)
+
+![raspimouse_sim_urg_slam_gmapping.png](raspberry-pi-mouse/raspimouse_sim_urg_slam_gmapping.png)
+
 - [slam_gmapping.png](raspberry-pi-mouse/slam_gmapping.png)
 
 ![slam_gmapping.png](raspberry-pi-mouse/slam_gmapping.png)
