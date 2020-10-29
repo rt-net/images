@@ -28,6 +28,10 @@
 
 ![joint_values.gif](crane-plus/joint_values.gif)
 
+- [pick_and_place.gif](crane-plus/pick_and_place.gif)
+
+![pick_and_place.gif](crane-plus/pick_and_place.gif)
+
 - [pose_groupstate.gif](crane-plus/pose_groupstate.gif)
 
 ![pose_groupstate.gif](crane-plus/pose_groupstate.gif)
