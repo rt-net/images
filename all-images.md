@@ -142,6 +142,10 @@
 
 ![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
 
+- [jnmouse_dual_camera.png](jetson-nano-mouse/jnmouse_dual_camera.png)
+
+![jnmouse_dual_camera.png](jetson-nano-mouse/jnmouse_dual_camera.png)
+
 - [jnmouse_gazebo_1.gif](jetson-nano-mouse/jnmouse_gazebo_1.gif)
 
 ![jnmouse_gazebo_1.gif](jetson-nano-mouse/jnmouse_gazebo_1.gif)
