@@ -162,6 +162,14 @@
 
 ![jnmouse_gazebo_disparity.png](jetson-nano-mouse/jnmouse_gazebo_disparity.png)
 
+- [jnmouse_ros_examples_line_follwing.jpg](jetson-nano-mouse/jnmouse_ros_examples_line_follwing.jpg)
+
+![jnmouse_ros_examples_line_follwing.jpg](jetson-nano-mouse/jnmouse_ros_examples_line_follwing.jpg)
+
+- [jnmouse_ros_examples_line_follwing_screenshot.png](jetson-nano-mouse/jnmouse_ros_examples_line_follwing_screenshot.png)
+
+![jnmouse_ros_examples_line_follwing_screenshot.png](jetson-nano-mouse/jnmouse_ros_examples_line_follwing_screenshot.png)
+
 - [jnmouse_rviz.png](jetson-nano-mouse/jnmouse_rviz.png)
 
 ![jnmouse_rviz.png](jetson-nano-mouse/jnmouse_rviz.png)
