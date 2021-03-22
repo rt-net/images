@@ -68,6 +68,10 @@
 
 ## crane-x7
 
+- [CRANE-X7.png](crane-x7/CRANE-X7.png)
+
+![CRANE-X7.png](crane-x7/CRANE-X7.png)
+
 - [bringup.jpg](crane-x7/bringup.jpg)
 
 ![bringup.jpg](crane-x7/bringup.jpg)
