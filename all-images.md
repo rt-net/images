@@ -12,6 +12,10 @@
 
 ## crane-plus
 
+- [CRANEV2.png](crane-plus/CRANEV2.png)
+
+![CRANEV2.png](crane-plus/CRANEV2.png)
+
 - [crane_plus_gazebo.png](crane-plus/crane_plus_gazebo.png)
 
 ![crane_plus_gazebo.png](crane-plus/crane_plus_gazebo.png)
