@@ -202,6 +202,10 @@
 
 ## raspberry-pi-mouse
 
+- [Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
+
+![Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
+
 - [field_calibration.JPG](raspberry-pi-mouse/field_calibration.JPG)
 
 ![field_calibration.JPG](raspberry-pi-mouse/field_calibration.JPG)
