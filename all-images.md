@@ -304,6 +304,10 @@
 
 ## sciurus17
 
+- [Sciurus17.png](sciurus17/Sciurus17.png)
+
+![Sciurus17.png](sciurus17/Sciurus17.png)
+
 - [Sciurus17_Arm_Center.stp.png](sciurus17/Sciurus17_Arm_Center.stp.png)
 
 ![Sciurus17_Arm_Center.stp.png](sciurus17/Sciurus17_Arm_Center.stp.png)
