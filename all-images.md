@@ -266,6 +266,10 @@
 
 ![object_tracking_ros2.png](raspberry-pi-mouse/object_tracking_ros2.png)
 
+- [object_tracking_view_object.png](raspberry-pi-mouse/object_tracking_view_object.png)
+
+![object_tracking_view_object.png](raspberry-pi-mouse/object_tracking_view_object.png)
+
 - [raspberry_pi_mouse.JPG](raspberry-pi-mouse/raspberry_pi_mouse.JPG)
 
 ![raspberry_pi_mouse.JPG](raspberry-pi-mouse/raspberry_pi_mouse.JPG)
