@@ -12,6 +12,10 @@
 
 ## crane-plus
 
+- [CRANEV2-500x500.png](crane-plus/CRANEV2-500x500.png)
+
+![CRANEV2-500x500.png](crane-plus/CRANEV2-500x500.png)
+
 - [CRANEV2.png](crane-plus/CRANEV2.png)
 
 ![CRANEV2.png](crane-plus/CRANEV2.png)
@@ -71,6 +75,10 @@
 ---
 
 ## crane-x7
+
+- [CRANE-X7-500x500.png](crane-x7/CRANE-X7-500x500.png)
+
+![CRANE-X7-500x500.png](crane-x7/CRANE-X7-500x500.png)
 
 - [CRANE-X7.png](crane-x7/CRANE-X7.png)
 
@@ -210,6 +218,10 @@
 
 ## raspberry-pi-mouse
 
+- [Raspberry-Pi-Mouse-500x500.png](raspberry-pi-mouse/Raspberry-Pi-Mouse-500x500.png)
+
+![Raspberry-Pi-Mouse-500x500.png](raspberry-pi-mouse/Raspberry-Pi-Mouse-500x500.png)
+
 - [Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
 
 ![Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
@@ -316,6 +328,10 @@
 
 ## sciurus17
 
+- [Sciurus17-500x500.png](sciurus17/Sciurus17-500x500.png)
+
+![Sciurus17-500x500.png](sciurus17/Sciurus17-500x500.png)
+
 - [Sciurus17.png](sciurus17/Sciurus17.png)
 
 ![Sciurus17.png](sciurus17/Sciurus17.png)
@@ -385,6 +401,10 @@
 ---
 
 ## training-tracer
+
+- [RT-Tracer-500x500.png](training-tracer/RT-Tracer-500x500.png)
+
+![RT-Tracer-500x500.png](training-tracer/RT-Tracer-500x500.png)
 
 - [RT-Tracer.png](training-tracer/RT-Tracer.png)
 
