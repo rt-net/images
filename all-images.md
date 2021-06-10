@@ -198,6 +198,10 @@
 
 ![jnmouse_step_cad.png](jetson-nano-mouse/jnmouse_step_cad.png)
 
+- [jnmouse_undistort.png](jetson-nano-mouse/jnmouse_undistort.png)
+
+![jnmouse_undistort.png](jetson-nano-mouse/jnmouse_undistort.png)
+
 [back to top](#all-images)
 
 ---
