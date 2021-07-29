@@ -242,6 +242,10 @@
 
 ![Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
 
+- [display_launch.png](raspberry-pi-mouse/display_launch.png)
+
+![display_launch.png](raspberry-pi-mouse/display_launch.png)
+
 - [field_calibration.JPG](raspberry-pi-mouse/field_calibration.JPG)
 
 ![field_calibration.JPG](raspberry-pi-mouse/field_calibration.JPG)
