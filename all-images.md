@@ -154,6 +154,10 @@
 
 ![Jetson-Nano-Mouse.png](jetson-nano-mouse/Jetson-Nano-Mouse.png)
 
+- [drawing_jnmouse_wheel.png](jetson-nano-mouse/drawing_jnmouse_wheel.png)
+
+![drawing_jnmouse_wheel.png](jetson-nano-mouse/drawing_jnmouse_wheel.png)
+
 - [jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
 
 ![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
@@ -246,9 +250,9 @@
 
 ![display_launch.png](raspberry-pi-mouse/display_launch.png)
 
-- [drawing-wheel.png](raspberry-pi-mouse/drawing-wheel.png)
+- [drawing_raspimouse_wheel.png](raspberry-pi-mouse/drawing_raspimouse_wheel.png)
 
-![drawing-wheel.png](raspberry-pi-mouse/drawing-wheel.png)
+![drawing_raspimouse_wheel.png](raspberry-pi-mouse/drawing_raspimouse_wheel.png)
 
 - [field_calibration.JPG](raspberry-pi-mouse/field_calibration.JPG)
 
