@@ -162,6 +162,10 @@
 
 ![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
 
+- [jnmouse_camera_calibration.png](jetson-nano-mouse/jnmouse_camera_calibration.png)
+
+![jnmouse_camera_calibration.png](jetson-nano-mouse/jnmouse_camera_calibration.png)
+
 - [jnmouse_dual_camera.png](jetson-nano-mouse/jnmouse_dual_camera.png)
 
 ![jnmouse_dual_camera.png](jetson-nano-mouse/jnmouse_dual_camera.png)
