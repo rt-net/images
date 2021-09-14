@@ -302,6 +302,14 @@
 
 ![navigating_goalpoint.png](raspberry-pi-mouse/navigating_goalpoint.png)
 
+- [navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
+
+![navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
+
+- [navigation_setting_initialpose.gif](raspberry-pi-mouse/navigation_setting_initialpose.gif)
+
+![navigation_setting_initialpose.gif](raspberry-pi-mouse/navigation_setting_initialpose.gif)
+
 - [object_tracking.JPG](raspberry-pi-mouse/object_tracking.JPG)
 
 ![object_tracking.JPG](raspberry-pi-mouse/object_tracking.JPG)
