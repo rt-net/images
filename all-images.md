@@ -298,6 +298,10 @@
 
 ![mouse_with_urg.JPG](raspberry-pi-mouse/mouse_with_urg.JPG)
 
+- [navigating_goalpoint.png](raspberry-pi-mouse/navigating_goalpoint.png)
+
+![navigating_goalpoint.png](raspberry-pi-mouse/navigating_goalpoint.png)
+
 - [object_tracking.JPG](raspberry-pi-mouse/object_tracking.JPG)
 
 ![object_tracking.JPG](raspberry-pi-mouse/object_tracking.JPG)
