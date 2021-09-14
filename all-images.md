@@ -302,6 +302,10 @@
 
 ![navigating_goalpoint.png](raspberry-pi-mouse/navigating_goalpoint.png)
 
+- [navigation_afterlaunched.png](raspberry-pi-mouse/navigation_afterlaunched.png)
+
+![navigation_afterlaunched.png](raspberry-pi-mouse/navigation_afterlaunched.png)
+
 - [navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
 
 ![navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
