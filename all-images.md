@@ -186,6 +186,10 @@
 
 ![jnmouse_gazebo_disparity.png](jetson-nano-mouse/jnmouse_gazebo_disparity.png)
 
+- [jnmouse_openvslam_socket.png](jetson-nano-mouse/jnmouse_openvslam_socket.png)
+
+![jnmouse_openvslam_socket.png](jetson-nano-mouse/jnmouse_openvslam_socket.png)
+
 - [jnmouse_ros_examples_image_undistortion_screenshot.png](jetson-nano-mouse/jnmouse_ros_examples_image_undistortion_screenshot.png)
 
 ![jnmouse_ros_examples_image_undistortion_screenshot.png](jetson-nano-mouse/jnmouse_ros_examples_image_undistortion_screenshot.png)
