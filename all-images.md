@@ -9,6 +9,7 @@
 - [sciurus17](#sciurus17)
 - [training-tracer](#training-tracer)
 - [usb-9axisimu](#usb-9axisimu)
+- [waypoint_gui](#waypoint_gui)
 
 ## crane-plus
 
@@ -479,6 +480,32 @@
 - [usb-9axisimu.png](usb-9axisimu/usb-9axisimu.png)
 
 ![usb-9axisimu.png](usb-9axisimu/usb-9axisimu.png)
+
+[back to top](#all-images)
+
+---
+
+## waypoint_gui
+
+- [2d_pose_estimate.png](waypoint_gui/2d_pose_estimate.png)
+
+![2d_pose_estimate.png](waypoint_gui/2d_pose_estimate.png)
+
+- [publish_point.png](waypoint_gui/publish_point.png)
+
+![publish_point.png](waypoint_gui/publish_point.png)
+
+- [route.png](waypoint_gui/route.png)
+
+![route.png](waypoint_gui/route.png)
+
+- [start.png](waypoint_gui/start.png)
+
+![start.png](waypoint_gui/start.png)
+
+- [waypoints.gif](waypoint_gui/waypoints.gif)
+
+![waypoints.gif](waypoint_gui/waypoints.gif)
 
 [back to top](#all-images)
 
