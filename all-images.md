@@ -351,6 +351,10 @@
 
 ![raspimouse_3dmodel.png](raspberry-pi-mouse/raspimouse_3dmodel.png)
 
+- [raspimouse_control_rqt_graph.png](raspberry-pi-mouse/raspimouse_control_rqt_graph.png)
+
+![raspimouse_control_rqt_graph.png](raspberry-pi-mouse/raspimouse_control_rqt_graph.png)
+
 - [raspimouse_sim_samplemaze.png](raspberry-pi-mouse/raspimouse_sim_samplemaze.png)
 
 ![raspimouse_sim_samplemaze.png](raspberry-pi-mouse/raspimouse_sim_samplemaze.png)
