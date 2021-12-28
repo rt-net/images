@@ -163,6 +163,10 @@
 
 ![jnm_jupyternotebook_sample.png](jetson-nano-mouse/jnm_jupyternotebook_sample.png)
 
+- [jnm_jupyternotebook_youtube.png](jetson-nano-mouse/jnm_jupyternotebook_youtube.png)
+
+![jnm_jupyternotebook_youtube.png](jetson-nano-mouse/jnm_jupyternotebook_youtube.png)
+
 - [jnmouse_camera_calibration.png](jetson-nano-mouse/jnmouse_camera_calibration.png)
 
 ![jnmouse_camera_calibration.png](jetson-nano-mouse/jnmouse_camera_calibration.png)
