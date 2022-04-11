@@ -141,6 +141,10 @@
 
 ![readme_rqt_reconfigure.png](crane-x7/readme_rqt_reconfigure.png)
 
+- [x7_s17_gravity_compensation.gif](crane-x7/x7_s17_gravity_compensation.gif)
+
+![x7_s17_gravity_compensation.gif](crane-x7/x7_s17_gravity_compensation.gif)
+
 [back to top](#all-images)
 
 ---
