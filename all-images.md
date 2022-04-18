@@ -268,13 +268,13 @@
 
 ![raspberry-pi-cat.png](raspberry-pi-cat/raspberry-pi-cat.png)
 
-- [controller_front.jpg](raspberry-pi-cat/gamepad/controller_front.jpg)
+- [gamepad_top.png](raspberry-pi-cat/gamepad_top.png)
 
-![controller_front.jpg](raspberry-pi-cat/gamepad/controller_front.jpg)
+![gamepad_top.png](raspberry-pi-cat/gamepad_top.png)
 
-- [controller_top.png](raspberry-pi-cat/gamepad/controller_top.png)
+- [gamepad_front.jpg](raspberry-pi-cat/gamepad_front.jpg)
 
-![controller_top.png](raspberry-pi-cat/gamepad/controller_top.png)
+![gamepad_front.jpg](raspberry-pi-cat/gamepad_front.jpg)
 
 [back to top](#all-images)
 
