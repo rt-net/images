@@ -5,6 +5,7 @@
 - [crane-x7](#crane-x7)
 - [jetson-nano-mouse](#jetson-nano-mouse)
 - [jetson-nano](#jetson-nano)
+- [raspberry-pi-cat](#raspberry-pi-cat)
 - [raspberry-pi-mouse](#raspberry-pi-mouse)
 - [sciurus17](#sciurus17)
 - [training-tracer](#training-tracer)
@@ -256,6 +257,20 @@
 - [jetson_nano_dual_csi.jpg](jetson-nano/jetson_nano_dual_csi.jpg)
 
 ![jetson_nano_dual_csi.jpg](jetson-nano/jetson_nano_dual_csi.jpg)
+
+[back to top](#all-images)
+
+---
+
+## raspberry-pi-cat
+
+- [gamepad](raspberry-pi-cat/gamepad)
+
+![gamepad](raspberry-pi-cat/gamepad)
+
+- [raspberry-pi-cat.png](raspberry-pi-cat/raspberry-pi-cat.png)
+
+![raspberry-pi-cat.png](raspberry-pi-cat/raspberry-pi-cat.png)
 
 [back to top](#all-images)
 
@@ -524,3 +539,4 @@
 ---
 
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />The files in this page are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
