@@ -276,6 +276,10 @@
 
 ![drawing_raspicat_wheel.png](raspberry-pi-cat/drawing_raspicat_wheel.png)
 
+- [raspicat_step_cad.png](raspberry-pi-cat/raspicat_step_cad.png)
+
+![raspicat_step_cad.png](raspberry-pi-cat/raspicat_step_cad.png)
+
 - [gamepad_front.jpg](raspberry-pi-cat/gamepad_front.jpg)
 
 ![gamepad_front.jpg](raspberry-pi-cat/gamepad_front.jpg)
