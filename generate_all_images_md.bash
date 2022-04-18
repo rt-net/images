@@ -15,11 +15,11 @@ OUTPUT+="\n"
 for directory in ${DIRS[@]}; do
     OUTPUT+="## ${directory%/}\n\n"
 
-    FILES=($(ls ${directory}))
+    FILES=($(find ${directory} -type f))
     for filename in ${FILES[@]}; do
         # 画像ファイルへのリンクと画像を表示
-        OUTPUT+="- [${filename}](${directory}${filename})\n\n"
-        OUTPUT+="![${filename}](${directory}${filename})\n\n"
+        OUTPUT+="- [${filename##*/}](${filename})\n\n"
+        OUTPUT+="![${filename##*/}](${filename})\n\n"
     done
 
     OUTPUT+="[back to top](#${TITLE})\n\n"
