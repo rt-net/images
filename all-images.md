@@ -272,6 +272,10 @@
 
 ![Raspberry-Pi-Cat-500x500.jpg](raspberry-pi-cat/Raspberry-Pi-Cat-500x500.jpg)
 
+- [display_launch.png](raspberry-pi-cat/display_launch.png)
+
+![display_launch.png](raspberry-pi-cat/display_launch.png)
+
 - [gamepad_top.png](raspberry-pi-cat/gamepad_top.png)
 
 ![gamepad_top.png](raspberry-pi-cat/gamepad_top.png)
