@@ -268,6 +268,14 @@
 
 ![raspberry-pi-cat.png](raspberry-pi-cat/raspberry-pi-cat.png)
 
+- [raspicat_gazebo_with_iscas_museum.gif](raspberry-pi-cat/raspicat_gazebo_with_iscas_museum.gif)
+
+![raspicat_gazebo_with_iscas_museum.gif](raspberry-pi-cat/raspicat_gazebo_with_iscas_museum.gif)
+
+- [display_launch_front.png](raspberry-pi-cat/display_launch_front.png)
+
+![display_launch_front.png](raspberry-pi-cat/display_launch_front.png)
+
 - [Raspberry-Pi-Cat-500x500.jpg](raspberry-pi-cat/Raspberry-Pi-Cat-500x500.jpg)
 
 ![Raspberry-Pi-Cat-500x500.jpg](raspberry-pi-cat/Raspberry-Pi-Cat-500x500.jpg)
