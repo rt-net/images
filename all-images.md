@@ -86,6 +86,10 @@
 
 ![gazebo_pick_and_place.png](crane-x7/gazebo_pick_and_place.png)
 
+- [display_launch.png](crane-x7/display_launch.png)
+
+![display_launch.png](crane-x7/display_launch.png)
+
 - [joystick_example_key_numbers.png](crane-x7/joystick_example_key_numbers.png)
 
 ![joystick_example_key_numbers.png](crane-x7/joystick_example_key_numbers.png)
