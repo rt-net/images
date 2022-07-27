@@ -414,6 +414,10 @@
 
 ![display_launch.png](raspberry-pi-mouse/display_launch.png)
 
+- [navigation_ros2_rviz_panel.png](raspberry-pi-mouse/navigation_ros2_rviz_panel.png)
+
+![navigation_ros2_rviz_panel.png](raspberry-pi-mouse/navigation_ros2_rviz_panel.png)
+
 - [navigation_afterlaunched.png](raspberry-pi-mouse/navigation_afterlaunched.png)
 
 ![navigation_afterlaunched.png](raspberry-pi-mouse/navigation_afterlaunched.png)
