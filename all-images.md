@@ -134,6 +134,10 @@
 
 ![CRANE-X7.png](crane-x7/CRANE-X7.png)
 
+- [crane_x7_gazebo_ros2.png](crane-x7/crane_x7_gazebo_ros2.png)
+
+![crane_x7_gazebo_ros2.png](crane-x7/crane_x7_gazebo_ros2.png)
+
 - [x7_s17_gravity_compensation.gif](crane-x7/x7_s17_gravity_compensation.gif)
 
 ![x7_s17_gravity_compensation.gif](crane-x7/x7_s17_gravity_compensation.gif)
