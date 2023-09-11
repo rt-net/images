@@ -523,6 +523,10 @@
 
 ![Sciurus17-500x500.png](sciurus17/Sciurus17-500x500.png)
 
+- [display_launch.png](sciurus17/display_launch.png)
+
+![display_launch.png](sciurus17/display_launch.png)
+
 - [sciurus17_gazebo.png](sciurus17/sciurus17_gazebo.png)
 
 ![sciurus17_gazebo.png](sciurus17/sciurus17_gazebo.png)
