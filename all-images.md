@@ -485,6 +485,10 @@
 
 ![raspimouse_sim_urg.png](raspberry-pi-mouse/raspimouse_sim_urg.png)
 
+- [color_objects.png](raspberry-pi-mouse/color_objects.png)
+
+![color_objects.png](raspberry-pi-mouse/color_objects.png)
+
 - [object_tracking_ros.png](raspberry-pi-mouse/object_tracking_ros.png)
 
 ![object_tracking_ros.png](raspberry-pi-mouse/object_tracking_ros.png)
