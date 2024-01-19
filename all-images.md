@@ -353,6 +353,10 @@
 
 ![mouse_with_imu_2.JPG](raspberry-pi-mouse/mouse_with_imu_2.JPG)
 
+- [camera_line_trace.png](raspberry-pi-mouse/camera_line_trace.png)
+
+![camera_line_trace.png](raspberry-pi-mouse/camera_line_trace.png)
+
 - [drawing_raspimouse_wheel.png](raspberry-pi-mouse/drawing_raspimouse_wheel.png)
 
 ![drawing_raspimouse_wheel.png](raspberry-pi-mouse/drawing_raspimouse_wheel.png)
