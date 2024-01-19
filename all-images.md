@@ -493,6 +493,10 @@
 
 ![Raspberry-Pi-Mouse.png](raspberry-pi-mouse/Raspberry-Pi-Mouse.png)
 
+- [mouse_camera_line_trace_2.png](raspberry-pi-mouse/mouse_camera_line_trace_2.png)
+
+![mouse_camera_line_trace_2.png](raspberry-pi-mouse/mouse_camera_line_trace_2.png)
+
 - [navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
 
 ![navigation_setting_goalpose.gif](raspberry-pi-mouse/navigation_setting_goalpose.gif)
